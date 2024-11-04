@@ -159,7 +159,6 @@ python-dotenv==1.0.1
 python-jwt==4.1.0
 pyttsx3==2.97
 pytz==2023.3
-pywin32==306
 PyYAML==6.0
 razorpay==1.4.1
 redis==5.1.1
